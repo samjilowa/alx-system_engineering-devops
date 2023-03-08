@@ -1,0 +1,19 @@
+total 84
+-rwxr-xr-x 1 root root 16 Mar  8 01:07 0-current_working_directory
+-rwxr-xr-x 1 root root 35 Mar  8 01:07 100-lets_move
+-rwxr-xr-x 1 root root 18 Mar  8 01:07 101-clean_emacs
+-rwxr-xr-x 1 root root 40 Mar  8 01:07 102-tree
+-rwxr-xr-x 1 root root 20 Mar  8 01:07 103-commas
+-rwxr-xr-x 1 root root 17 Mar  8 01:07 10-back
+-rwxr-xr-x 1 root root 30 Mar  8 01:07 11-lists
+-rwxr-xr-x 1 root root 31 Mar  8 01:07 12-file_type
+-rwxr-xr-x 1 root root 33 Mar  8 01:07 13-symbolic_link
+-rwxr-xr-x 1 root root 30 Mar  8 01:07 14-copy_html
+-rwxr-xr-x 1 root root 15 Mar  8 01:07 1-listit
+-rwxr-xr-x 1 root root 19 Mar  8 01:07 2-bring_me_home
+-rwxr-xr-x 1 root root 18 Mar  8 01:07 3-listfiles
+-rwxr-xr-x 1 root root 19 Mar  8 01:07 4-listmorefiles
+-rwxr-xr-x 1 root root 20 Mar  8 01:07 5-listfilesdigitonly
+-rwxr-xr-x 1 root root 42 Mar  8 01:07 6-firstdirectory
+-rwxr-xr-x 1 root root 50 Mar  8 01:07 7-movethatfile
+-rwxr-xr-x 1 root root 45 Mar  8 01:07 8-firstdelete
